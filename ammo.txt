@@ -1,0 +1,8 @@
+319 login
+POST /api/v1.0/data/find HTTP/1.1
+Content-Type: application/json
+Host: 127.0.0.1
+User-Agent: yandex-tank yandex-tank/har2ammo
+Content-Length: 170
+{"access":"84765f2bcaeb8d28cf03ec1f28456c9c","app":"8ff8b1a03a5b25f8309e22565254618a","client":"2e3f3b85fddf203180e64faf3aa83a1c","coll":"testcoll","doc":{},"session":""}
+
